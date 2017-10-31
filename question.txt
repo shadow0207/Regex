@@ -1,0 +1,1 @@
+1.Find the longest substring in a given string having two unique characters. for example- longest 1. substring in aabbccabababaaaabababacbabccbcbcb)-> (aabb-bbcc-cca-abababaaaabababa-ac-cb-bab-bccbcbcb)-> (abababaaaabababa)
